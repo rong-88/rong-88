@@ -1,6 +1,7 @@
 ![stayHungry](https://github.com/rong-88/rong-88/assets/13353300/dec72bfb-a739-40f8-be62-616cbe163b7f)
 ### Hi there 👋
 
+🌱 I’m currently learning to fly
 <!--
 **rong-88/rong-88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
